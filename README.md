@@ -1,2 +1,2 @@
 # SENAI-TDS-IOT
-IOT jobd
+IOT jobs
